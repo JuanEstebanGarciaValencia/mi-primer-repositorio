@@ -1,2 +1,2 @@
-# Hola, este es:
-Mi primer repositorio en github 
+# Juan Esteban
+Texto Readme 
